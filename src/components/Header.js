@@ -14,10 +14,10 @@ const Header = () => {
         </Link>
         <nav className='flex list-none'>
             <li className='mx-4 border-black px-4  border-x-2'>
-                <NavLink to="/">Home</NavLink>
+                <NavLink to="/">Accueil</NavLink>
             </li>
             <li className='mx-2 border-black pr-4 border-r-2'>
-                <NavLink to="/ShopCart">Cart</NavLink>
+                <NavLink to="/ShopCart">Carte</NavLink>
             </li>
         </nav>
     </header>
