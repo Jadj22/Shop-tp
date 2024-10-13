@@ -10,7 +10,7 @@ const ShopList = () => {
     useTitle('Home');
   return (
     <main>
-        <h1 className='text-center'>Bienvenue sur l'application Shop</h1>
+        <h1 className='text-center text-xl mb-6'>Bienvenue sur l'application Shop</h1>
 
         <div className='flex flex-wrap justify-center gap-4'>
             {
